@@ -1,3 +1,5 @@
-*.csv
 *.names
-
+resources
+wine-quality-nb.ipynb
+white_wine_quality.ipynb
+Project.ipynb
